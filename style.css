@@ -1,11 +1,13 @@
-body{
-    background-image: url(/forest.webp);
-}
+
 
 body {
     background-color: #15e653;
     font-family:  sans-serif;
     padding: 30px;
+}
+
+body{
+    background-image: url(/forest.webp);
 }
 
 .onebox {
